@@ -42,5 +42,4 @@
 	
 	<bean class="com.springcore.Student" name="Student3" p:studentID="2020" p:studentName="Anand" p:studentAddress="Greater Noida" />
 	
-	
 </beans>
