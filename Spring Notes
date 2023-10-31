@@ -1,1 +1,2 @@
+JDBC - java database connectivity = direct contact to DB, provides abstract layer to not use old GDBC, Clean API to Acess DB.
 Spring MVC - module view controller = it is a web framework that construct user interface for web server based application.
